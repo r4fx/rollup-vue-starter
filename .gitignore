@@ -1,0 +1,8 @@
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/rollup-vue-starter.iml
+.idea/workspace.xml
+dist/
+node_modules/
+public/
